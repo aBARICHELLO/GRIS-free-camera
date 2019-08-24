@@ -1,16 +1,18 @@
 # GRIS-free-camera
+Free camera for the GRIS game.
 
 ## Screenshots
 <div>
     <a href="http://yt.barichello.me"><img src="https://i.imgur.com/OHKhUJ2.png" width="400"></a>
+    <a href="http://yt.barichello.me"><img src="https://i.imgur.com/KLUE9JI.png" width="400"></a>
+    <a href="http://yt.barichello.me"><img src="https://i.imgur.com/KO7q9qY.png" width="400"></a>
+    <a href="http://yt.barichello.me"><img src="https://i.imgur.com/H5i1wrM.png" width="400"></a>
 </div>
 
-<!--
 ## Video
 <div>
-    <a href="https://www.youtube.com/watch?v=J8ee1b1XuMg"><img src="https://i.imgur.com/So7J885.png" width="400"></a>
+    <a href="https://www.youtube.com/watch?v=P08wm2l7mq0"><img src="https://i.imgur.com/t5f1wH9.png" width="400"></a>
 </div>
--->
 
 ---
 
@@ -26,7 +28,6 @@ Key|Action
 NumLock|Enable/Disable noclip
 Backspace|Enable/Disable follow mode
 Arrows keys|Move camera around
-Keypad +/-|Increase/Decrease FOV
 ScrollWheel/+/-|Increase/Decrease Zoom
 Left Shift/Mouse4|Increase noclip camera speed
 
